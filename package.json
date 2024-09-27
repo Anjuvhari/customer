@@ -1,0 +1,16 @@
+{
+  "name": "customer-app",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "author": "Anju V H",
+  "license": "ISC",
+  "keywords": []
+}
